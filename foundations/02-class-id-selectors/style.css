@@ -1,0 +1,18 @@
+p {
+    background-color: pink;
+    font-family: "Verdana", "Deja Vu Sans", sans-serif; 
+}
+
+#numbertwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.twentyfour {
+    font-size: 24px;
+}
+
+#numberfour {
+    background-color: greenyellow;
+    font-weight: bold;
+}
